@@ -44,7 +44,7 @@
 
 
 ---
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ayu-yishu13&bg_color=010403&color=0dd935&line=4c9e52&point=d2e105&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ayushrai13/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yishu2005.ju@gmail.com) 
 
@@ -69,9 +69,12 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Uber](https://img.shields.io/badge/Uber-%23000000.svg?style=plastic&logo=Uber&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=plastic&logo=xbox&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=plastic&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ayu-yishu13&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ayu-yishu13&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayu-yishu13&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center "> 
+  
+  ![](https://github-readme-stats.vercel.app/api?username=ayu-yishu13&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/> </p>
+  ![](https://nirzak-streak-stats.vercel.app/?user=ayu-yishu13&theme=merko&hide_border=false)<br/>
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayu-yishu13&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ayu-yishu13&theme=shadow_red&no-frame=false&no-bg=false&margin-w=4)
