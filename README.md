@@ -2,7 +2,9 @@
 <h1 align="center">Hey there! 👋 I'm Ayush Kumar Rai</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="200" height="1000"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" height= "5000"/>
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200" height= "500"/>
 </p>
 
 <p align="center">
@@ -18,17 +20,18 @@
 + Driven by curiosity | Powered by code | Inspired by intelligence
 ```
 
-🧠 I'm an AI/ML enthusiast with a deep passion for data, algorithms, and solving real-world problems with intelligent systems.  
-🌱 Currently exploring advanced ML techniques, computer vision, and real-time applications.  
-🎯 Focused on building smart, efficient, and user-friendly applications.
+🧠 I'm Ayush Kumar Rai, a 3rd-year Computer Science student specializing in Artificial Intelligence and Machine Learning at Sai Vidya Institute of Technology. Passionate about leveraging technology to solve real-world problems, I've successfully completed numerous projects in AI, ML, and data analysis. 
+🌱 AI/ML | Skilled in Python, C++, NLP, LLM, Transformers, Neural Networks, HTML, CSS, React , JS | Web development , Machine Learning, AI| Tensorflow, OpenCV, Express, SQL, NoSQL, Numpy
+🎯 My technical skills include Python, C++, large language models (LLMs), Power BI, and Excel, among others. With a strong work ethic, adaptability, and a commitment to continuous learning, I excel at designing innovative solutions and thrive in challenging environments. I am eager to bring my expertise and dedication to impactful project.
 
 ---
 
 ## 💼 Experience
 
 ### 👨‍💼 ML Intern @ SkillCraft Technology (Mar–Apr 2025)
-> Built hands-on machine learning models to improve user experience.  
-> Projects included **real-time predictions**, **image classification**, and **clustering**.
+> In my role as a Machine Learning Intern at SkillCraft Technology, I had the opportunity to work on developing cutting-edge machine learning models to enhance user experience and drive engagement. .  
+> I worked on 4 projects such as House price and sales prediction using Random forest Algorithm, KNN,CNN,ANN Decision tree and Support Vector Machines
+> Improved accuracy from 74% to 89%. I also worked on Cat & Dog Classifier, K-Means Clustering which involved many libraries such as Tensorflows, PyTorch, Transformers, etc.
 
 ---
 
@@ -41,8 +44,8 @@
 | 🐱🐶 **Cat vs Dog Classifier** | Python, SVM | Binary image classification using machine learning |
 | 🛍️ **Customer Clustering** | K-Means, Python | Segments retail customers based on spending patterns |
 | 🕵️ **Smart Attendance System** | AI, OpenCV | Automates attendance with facial recognition tech |
-
-
+| 🎤 **Advanced Jarvis**| React, JS, HTML, CSS, Eel, Python, Node | Very advanced Jarvis featured Watsapp Automation, Android calling, Siriwave |
+|  🛡️ **Network Intrusion Detection System** | ML, LSTM, DL, REST API | Improves user interaction by detection of Malware |
 ---
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ayu-yishu13&bg_color=010403&color=0dd935&line=4c9e52&point=d2e105&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ## 🌐 Socials:
