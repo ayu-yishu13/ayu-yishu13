@@ -1,171 +1,255 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Ayush%20Kumar%20Rai&fontSize=52&fontColor=ffffff&fontAlignY=55&animation=fadeIn&desc=AI%20Engineer%20%E2%80%A2%20Full%20Stack%20Dev%20%E2%80%A2%20GSoC%202026%20%E2%80%A2%20IEEE%20Published&descSize=15&descAlignY=75&descColor=a78bfa" width="100%"/>
+</div>
 
-```
- █████╗ ██╗   ██╗██╗   ██╗███████╗██╗  ██╗    ██████╗  █████╗ ██╗
-██╔══██╗╚██╗ ██╔╝██║   ██║██╔════╝██║  ██║    ██╔══██╗██╔══██╗██║
-███████║ ╚████╔╝ ██║   ██║███████╗███████║    ██████╔╝███████║██║
-██╔══██║  ╚██╔╝  ██║   ██║╚════██║██╔══██║    ██╔══██╗██╔══██║██║
-██║  ██║   ██║   ╚██████╔╝███████║██║  ██║    ██║  ██║██║  ██║██║
-╚═╝  ╚═╝   ╚═╝    ╚═════╝ ╚══════╝╚═╝  ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝
-```
+<div align="center">
 
-### AI/ML Engineer · Full-Stack Developer · Open Source Contributor
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=60&lines=GSoC+2026+%40+Mifos+%7C+AI+for+Banking+%26+Finance;IEEE+Published+%7C+NIDS+%7C+96%25+Accuracy+on+CICIDS;Building+at+the+intersection+of+AI+%26+real+systems)](https://git.io/typing-svg)
-
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=00D9FF)](https://ayu-yishu13-github-io.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayushrai13)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/ayucoder/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yishu2005.ju@gmail.com)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2800&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=550&lines=Building+AI+that+works+outside+the+notebook+%F0%9F%A7%A0;GSoC+2026+%40+Mifos+%7C+Banking+%2B+LLMs+%F0%9F%8F%A6;IEEE+Published+%7C+NIDS+%7C+96%25+Accuracy+%F0%9F%9B%A1%EF%B8%8F;Multi-LLM+Routing+%7C+Groq+%2F+Gemini+%2F+Ollama+%E2%9A%A1)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## `> whoami`
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ayu-yishu13&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" width="420"/>
+</div>
 
-```python
-class AyushRai:
-    name       = "Ayush Kumar Rai"
-    role       = "Final-Year CS (AI/ML) @ Sai Vidya Institute of Technology, Bangalore"
-    gsoc       = "GSoC 2026 Contributor — Mifos AI (Next.js + FastAPI + LLMs)"
-    published  = "IEEE Publication — Network Intrusion Detection System"
-    focus      = ["LLM Infrastructure", "Full-Stack AI Apps", "Open Source"]
-    currently  = "Actively seeking ML/AI & Full-Stack internships"
+---
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:302b63&height=2&width=100%" width="100%"/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f0c29,50:302b63,100:24243e&height=180&text=About%20Me&fontSize=38&fontColor=a78bfa&desc=Final%20Year%20%7C%20AI%2FML%20%7C%20GSoC%202026%20%7C%20IEEE%20Published&descColor=ffffff&descSize=14&animation=fadeIn" width="100%"/>
+</div>
+
+<br/>
+
+<img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+
+<div align="left">
+
+### 💜 &nbsp; `whoami`
+```yaml
+name      : Ayush Kumar Rai
+location  : Bangalore 🇮🇳
+degree    : Final Year B.E — CSE (AI/ML)
+college   : Sai Vidya Institute of Technology
+gsoc      : 2026 Contributor @ Mifos Foundation
+published : IEEE + Springer LNCS (under review)
+focus     : LLM Infra · Full Stack · Open Source
+open_to   : ML/AI & Full-Stack Internships
 ```
 
+### 💜 &nbsp; `fun_facts.py`
+```python
+when_not_coding = ["reading AI papers", "open source hunting"]
+currently_obsessed = "making LLMs work on 8GB RAM"
+belief = "good enough in testing ≠ good enough in prod"
+```
+
+</div>
+
+<br clear="right"/>
+
+<div align="center">
+
+![](https://img.shields.io/badge/AI%2FML%20Engineer-a78bfa?style=for-the-badge&logoColor=white)
+![](https://img.shields.io/badge/Full%20Stack%20Dev-302b63?style=for-the-badge&logoColor=white)
+![](https://img.shields.io/badge/GSoC%202026-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![](https://img.shields.io/badge/IEEE%20Published-00629B?style=for-the-badge&logo=ieee&logoColor=white)
+![](https://img.shields.io/badge/Open%20Source-orange?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="380"/>
+</div>
+
+### 🚀 Featured Projects
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="50%">
+
+**🏦 Mifos AI** &nbsp;`GSoC 2026`
+
+LLM loan summarizer for open-source banking.
+Multi-provider routing · Multilingual output
+
+`Next.js` `FastAPI` `PostgreSQL` `Ollama` `Groq`
+
+[![Repo](https://img.shields.io/badge/View_Repo-302b63?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayu-yishu13)
+
+</td>
+<td align="center" width="50%">
+
+**🛡️ NIDS** &nbsp;`IEEE Published`
+
+Network Intrusion Detection on CICIDS & DarkNet.
+96% acc · 92% acc · Real threat detection.
+
+`LSTM` `Deep Learning` `Python` `REST API`
+
+[![Paper](https://img.shields.io/badge/IEEE_Paper-00629B?style=for-the-badge&logo=ieee&logoColor=white)](https://github.com/ayu-yishu13)
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+**📋 LeaveSync** &nbsp;`Production`
+
+Full-stack leave management system.
+Built solo · Deployed on Vercel + Render.
+
+`Vue.js` `Node.js` `MongoDB Atlas` `Tailwind`
+
+[![Repo](https://img.shields.io/badge/View_Repo-302b63?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayu-yishu13)
+
+</td>
+<td align="center" width="50%">
+
+**📈 BiLSTM Traffic Prediction** &nbsp;`Springer`
+
+Attention-based traffic flow forecasting.
+Strong benchmarks · Under review.
+
+`PyTorch` `Attention` `LSTM` `LaTeX`
+
+[![Paper](https://img.shields.io/badge/Springer_LNCS-FF6600?style=for-the-badge&logo=springer&logoColor=white)](https://github.com/ayu-yishu13)
+
+</td>
+</tr>
+</table>
+</div>
+
 ---
 
-## `> ls ./projects --highlight`
-
-### 🔬 Mifos AI — *GSoC 2026*
-> AI-powered loan agreement summarizer for Mifos, an open-source banking & financial services platform
-
-- Multi-provider LLM routing: **Groq → Gemini → Ollama** with automatic fallback
-- Multilingual output: **English, Hindi, Marathi**
-- Stack: `Next.js 14` · `FastAPI` · `PostgreSQL` · `TypeScript` · `NextAuth`
-- Quantisation trade-off analysis running Ollama locally on 8GB RAM
-
----
-
-### 🛡️ Network Intrusion Detection System — *IEEE Published*
-> Deep learning model for real-time network threat detection
-
-- Trained on **CICIDS** and **CIC-DarkNet** datasets
-- **96% accuracy** on CICIDS · **92% accuracy** on CIC-DarkNet
-- Architecture: `LSTM` · `Deep Learning` · `REST API`
-- Bridges the gap between notebook performance and production-grade deployment
-
----
-
-### 📋 LeaveSync — *Full-Stack Internship Assignment*
-> End-to-end leave management system, deployed to production
-
-- Stack: `Vue.js` · `Tailwind CSS` · `Node.js/Express` · `MongoDB Atlas`
-- Deployed on **Vercel** (frontend) + **Render** (backend)
-- Role-based access, email notifications, full CRUD
-
----
-
-### 🔬 Attention-BiLSTM Traffic Flow Prediction — *Springer LNCS (Under Review)*
-> Academic paper targeting Meteor conference (Springer LNCS format)
-- Strong benchmark metrics on traffic flow datasets
-- Co-authored with researchers at Sai Vidya Institute of Technology
-
----
-
-## `> cat experience.log`
-
-| Period | Role | Where |
-|--------|------|--------|
-| **2026** | GSoC Contributor — Mifos AI | Google Summer of Code |
-| **2025** | Lead Data Analytics Intern | Lunabers |
-| **2025** | ML / Rocket Intern | Indian Space Labs |
-| **2025** | ML Intern | SkillCraft Technology |
-
----
-
-## `> cat achievements.txt`
-
-- 🏆 **India AI Impact Buildathon** — India AI Impact Summit 2026
-- 🎓 **OpenCode** — IIT Ahmedabad
-- 🎓 **DSOC** — IIT Bombay
-- 📄 **IEEE Publication** — Network Intrusion Detection System
-- 📄 **Springer LNCS** — Attention-BiLSTM Traffic Flow (Under Review)
-
----
-
-## `> tech --stack`
+### 🛠️ Tech Stack
 
 <div align="center">
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=python,typescript,javascript,cpp,java,bash&theme=dark)](https://skillicons.dev)
 
 **AI / ML**
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F79231?style=flat-square&logo=scikit-learn&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+[![My Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark)](https://skillicons.dev)
+&nbsp;
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
-**Full-Stack**
+**Full Stack**
 
-![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495e?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,react,vue,fastapi,nodejs,tailwind,express&theme=dark)](https://skillicons.dev)
 
 **Databases & Cloud**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=postgres,mongodb,mysql,firebase,vercel,aws,docker,git&theme=dark)](https://skillicons.dev)
 
 </div>
 
 ---
 
-## `> github --stats`
+### 📊 GitHub Stats
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=ayu-yishu13&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayu-yishu13&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+# 📊 GitHub Stats:
+<p align="center "> 
+  
+  ![](https://github-readme-stats.vercel.app/api?username=ayu-yishu13&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/> </p>
+  ![](https://nirzak-streak-stats.vercel.app/?user=ayu-yishu13&theme=merko&hide_border=false)<br/>
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayu-yishu13&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<br/>
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=ayu-yishu13&theme=tokyonight&hide_border=true)
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayu-yishu13&theme=tokyo-night&hide_border=true&area=true&hide_title=false" width="100%"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayu-yishu13&theme=tokyonight" width="200"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ayu-yishu13&theme=tokyonight" width="200"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ayu-yishu13&theme=tokyonight" width="200"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ayu-yishu13&theme=tokyonight&utcOffset=5.5" width="200"/>
+</div>
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=ayu-yishu13&theme=tokyonight&hide_border=true" width="420"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayu-yishu13&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" width="320"/>
+
+</div>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ayu-yishu13&theme=shadow_red&no-frame=false&no-bg=false&margin-w=4)
+
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ayushrai13/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yishu2005.ju@gmail.com) 
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=ayu-yishu13&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ayu-yishu13&theme=tokyo-night&hide_border=true&area=true)
 
 </div>
 
 ---
 
-## `> open --collaborate`
+### 🏆 Achievements
 
 <div align="center">
 
-I'm open to **internships**, **research collaborations**, and **open source contributions**
-in the AI/ML and full-stack space.
+![Trophies](https://github-profile-trophy.vercel.app/?username=ayu-yishu13&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)
 
-*If you're building something interesting — let's talk.*
+</div>
 
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayushrai13)
-[![Email](https://img.shields.io/badge/Drop_a_Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yishu2005.ju@gmail.com)
+| | Highlight |
+|:---:|:---|
+| 🥇 | India AI Impact Buildathon — India AI Impact Summit 2026 |
+| 📄 | IEEE Publication — Network Intrusion Detection System |
+| 📄 | Springer LNCS — Attention-BiLSTM Traffic Prediction *(under review)* |
+| 🎓 | OpenCode · IIT Ahmedabad &nbsp;·&nbsp; DSOC · IIT Bombay |
+| 💼 | GSoC 2026 Contributor — Google Summer of Code |
 
-<br/>
+---
 
-![Profile Views](https://komarev.com/ghpvc/?username=ayu-yishu13&color=00D9FF&style=flat-square&label=PROFILE+VIEWS)
+### 🤝 Experience
 
+<div align="center">
+
+| Period | Role | Company |
+|:---:|:---|:---|
+| 2026 | GSoC Contributor — Mifos AI | Google Summer of Code |
+| 2025 | Lead Data Analytics Intern | Lunabers |
+| 2025 | ML / Rocket Intern | Indian Space Labs |
+| 2025 | ML Intern | SkillCraft Technology |
+
+</div>
+
+---
+
+<div align="center">
+
+### 📬 Let's Connect
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ayu-yishu13-github-io.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayushrai13)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/ayucoder/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yishu2005.ju@gmail.com)
+
+![views](https://komarev.com/ghpvc/?username=ayu-yishu13&color=a78bfa&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
 </div>
