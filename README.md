@@ -154,71 +154,88 @@ Strong benchmarks · Under review.
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-# 📊 GitHub Stats:
-<p align="center "> 
-  
-  ![](https://github-readme-stats.vercel.app/api?username=ayu-yishu13&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/> </p>
-  ![](https://nirzak-streak-stats.vercel.app/?user=ayu-yishu13&theme=merko&hide_border=false)<br/>
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayu-yishu13&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayu-yishu13&theme=tokyo-night&hide_border=true&area=true&hide_title=false" width="100%"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayu-yishu13&theme=tokyonight" width="200"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ayu-yishu13&theme=tokyonight" width="200"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ayu-yishu13&theme=tokyonight" width="200"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ayu-yishu13&theme=tokyonight&utcOffset=5.5" width="200"/>
-</div>
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=ayu-yishu13&theme=tokyonight&hide_border=true" width="420"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayu-yishu13&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" width="320"/>
-
-</div>
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ayu-yishu13&theme=shadow_red&no-frame=false&no-bg=false&margin-w=4)
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ayushrai13/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yishu2005.ju@gmail.com) 
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ayu-yishu13&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ayu-yishu13&theme=tokyo-night&hide_border=true&area=true)
-
-</div>
-
 ---
 
-### 🏆 Achievements
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a0533,50:0d3b1f,100:1a0533&height=60&text=📊%20GitHub%20Stats&fontSize=28&fontColor=ffffff&animation=fadeIn" width="100%"/>
+</div>
+
+<br/>
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=ayu-yishu13&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)
+<img src="https://github-readme-stats.vercel.app/api?username=ayu-yishu13&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" height="180"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayu-yishu13&theme=radical&hide_border=true&layout=compact&langs_count=8" height="180"/>
 
 </div>
 
-| | Highlight |
-|:---:|:---|
-| 🥇 | India AI Impact Buildathon — India AI Impact Summit 2026 |
-| 📄 | IEEE Publication — Network Intrusion Detection System |
-| 📄 | Springer LNCS — Attention-BiLSTM Traffic Prediction *(under review)* |
-| 🎓 | OpenCode · IIT Ahmedabad &nbsp;·&nbsp; DSOC · IIT Bombay |
-| 💼 | GSoC 2026 Contributor — Google Summer of Code |
+<br/>
+
+<div align="center">
+<img src="https://nirzak-streak-stats.vercel.app/?user=ayu-yishu13&theme=radical&hide_border=true&fire=DD2727&ring=A855F7&currStreakLabel=A855F7" width="55%"/>
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1b2a,50:1a3a5c,100:0d1b2a&height=40&text=Activity%20%26%20Contributions&fontSize=18&fontColor=58a6ff&animation=fadeIn" width="100%"/>
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayu-yishu13&theme=tokyo-night&hide_border=true&area=true&area_color=A855F7&color=58a6ff&line=A855F7&point=DD2727" width="100%"/>
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayu-yishu13&theme=2077" width="100%"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayu-yishu13&theme=2077" height="150"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ayu-yishu13&theme=2077" height="150"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ayu-yishu13&theme=2077" height="150"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ayu-yishu13&theme=2077&utcOffset=5.5" height="150"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a0f00,50:3b2000,100:1a0f00&height=40&text=Trophies&fontSize=18&fontColor=FFA116&animation=fadeIn" width="100%"/>
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=ayu-yishu13&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=7"/>
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ayu-yishu13&repo=mifos-ai&theme=radical&hide_border=true" width="45%"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ayu-yishu13&repo=NIDS&theme=radical&hide_border=true" width="45%"/>
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://ghchart.rshah.org/58a6ff/ayu-yishu13" width="100%"/>
+<p><sub>☝️ Contribution calendar — last 12 months</sub></p>
+</div>
 
 ---
 
