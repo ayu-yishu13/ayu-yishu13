@@ -225,9 +225,9 @@ Strong benchmarks · Under review.
 <br/>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ayu-yishu13&repo=mifos-ai&theme=radical&hide_border=true" width="45%"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ayu-yishu13&repo=Astra_Guard&theme=radical&hide_border=true" width="45%"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ayu-yishu13&repo=NIDS&theme=radical&hide_border=true" width="45%"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ayu-yishu13&repo=LeaveSync&theme=radical&hide_border=true" width="45%"/>
 </div>
 
 <br/>
