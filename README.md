@@ -10,23 +10,14 @@
 
 ---
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ayu-yishu13&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" width="420"/>
-</div>
+<table width="100%">
+<tr>
 
----
+<td valign="top" width="55%">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:302b63&height=2&width=100%" width="100%"/>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f0c29,50:302b63,100:24243e&height=180&text=About%20Me&fontSize=38&fontColor=a78bfa&desc=Final%20Year%20%7C%20AI%2FML%20%7C%20GSoC%202026%20%7C%20IEEE%20Published&descColor=ffffff&descSize=14&animation=fadeIn" width="100%"/>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f0c29,50:302b63,100:24243e&height=40&text=About%20Me&fontSize=22&fontColor=a78bfa&animation=fadeIn" width="100%"/>
 
 <br/>
-
-<img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
-
-<div align="left">
 
 ### 💜 &nbsp; `whoami`
 ```yaml
@@ -47,23 +38,29 @@ currently_obsessed = "making LLMs work on 8GB RAM"
 belief = "good enough in testing ≠ good enough in prod"
 ```
 
-</div>
-
-<br clear="right"/>
-
-<div align="center">
+<br/>
 
 ![](https://img.shields.io/badge/AI%2FML%20Engineer-a78bfa?style=for-the-badge&logoColor=white)
-![](https://img.shields.io/badge/Full%20Stack%20Dev-302b63?style=for-the-badge&logoColor=white)
 ![](https://img.shields.io/badge/GSoC%202026-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![](https://img.shields.io/badge/IEEE%20Published-00629B?style=for-the-badge&logo=ieee&logoColor=white)
 ![](https://img.shields.io/badge/Open%20Source-orange?style=for-the-badge&logo=github&logoColor=white)
 
-</div>
+</td>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="380"/>
-</div>
+<td valign="top" width="45%" align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="280"/>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=ayu-yishu13&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" width="100%"/>
+
+</td>
+
+</tr>
+</table>
+
+---
 
 ### 🚀 Featured Projects
 
@@ -225,7 +222,7 @@ Strong benchmarks · Under review.
 <br/>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ayu-yishu13&repo=Astra_Guard&theme=radical&hide_border=true" width="45%"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ayu-yishu13&repo=Astra_Gaurd&theme=radical&hide_border=true" width="45%"/>
 &nbsp;
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayu-yishu13&repo=LeaveSync&theme=radical&hide_border=true" width="45%"/>
 </div>
