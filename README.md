@@ -8,6 +8,8 @@
 
 </div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ---
 
 <table width="100%">
@@ -49,16 +51,18 @@ belief = "good enough in testing ≠ good enough in prod"
 
 <td valign="top" width="45%" align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="280"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="260"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=ayu-yishu13&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" width="100%"/>
+<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="90%"/>
 
 </td>
 
 </tr>
 </table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ---
 
@@ -121,6 +125,8 @@ Strong benchmarks · Under review.
 </table>
 </div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ---
 
 ### 🛠️ Tech Stack
@@ -149,7 +155,7 @@ Strong benchmarks · Under review.
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ---
 
@@ -170,7 +176,7 @@ Strong benchmarks · Under review.
 <br/>
 
 <div align="center">
-<img src="https://nirzak-streak-stats.vercel.app/?user=ayu-yishu13&theme=radical&hide_border=true&fire=DD2727&ring=A855F7&currStreakLabel=A855F7" width="55%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ayu-yishu13&theme=radical&hide_border=true&fire=DD2727&ring=A855F7&currStreakLabel=A855F7" width="55%"/>
 </div>
 
 <br/>
@@ -188,35 +194,13 @@ Strong benchmarks · Under review.
 <br/>
 
 <div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayu-yishu13&theme=2077" width="100%"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayu-yishu13&theme=2077" height="150"/>
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ayu-yishu13&theme=2077" height="150"/>
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ayu-yishu13&theme=2077" height="150"/>
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ayu-yishu13&theme=2077&utcOffset=5.5" height="150"/>
-
-</div>
-
-<br/>
-
-<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a0f00,50:3b2000,100:1a0f00&height=40&text=Trophies&fontSize=18&fontColor=FFA116&animation=fadeIn" width="100%"/>
 </div>
 
 <br/>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ayu-yishu13&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ayu-yishu13&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=6"/>
 </div>
 
 <br/>
@@ -227,12 +211,7 @@ Strong benchmarks · Under review.
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayu-yishu13&repo=LeaveSync&theme=radical&hide_border=true" width="45%"/>
 </div>
 
-<br/>
-
-<div align="center">
-<img src="https://ghchart.rshah.org/58a6ff/ayu-yishu13" width="100%"/>
-<p><sub>☝️ Contribution calendar — last 12 months</sub></p>
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ---
 
@@ -249,6 +228,22 @@ Strong benchmarks · Under review.
 
 </div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+---
+
+### 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ayu-yishu13/ayu-yishu13/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ayu-yishu13/ayu-yishu13/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ayu-yishu13/ayu-yishu13/output/github-contribution-grid-snake-dark.svg">
+  </picture>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ---
 
 <div align="center">
@@ -260,8 +255,24 @@ Strong benchmarks · Under review.
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/ayucoder/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yishu2005.ju@gmail.com)
 
+<br/>
+
 ![views](https://komarev.com/ghpvc/?username=ayu-yishu13&color=a78bfa&style=for-the-badge&label=PROFILE+VIEWS)
 
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="180"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+%F0%9F%92%9C;Let%27s+build+something+impactful+together+%F0%9F%9A%80;Connect+%E2%80%A2+Collaborate+%E2%80%A2+Create+%F0%9F%8C%9F" alt="Footer Typing"/>
+  <br/>
+  <sub><strong>✨ Crafted with 💜 by Ayush Kumar Rai · Powered by curiosity, code & coffee ☕</strong></sub>
 </div>
 
 <div align="center">
